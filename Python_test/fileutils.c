@@ -94,6 +94,7 @@ static int force_ascii = -1;
 static int
 check_force_ascii(void)
 {
+/* cmdline git commit test */
     char *loc;
 #if defined(HAVE_LANGINFO_H) && defined(CODESET)
     char *codeset, **alias;
