@@ -5,6 +5,7 @@
 char *
 strdup(const char *str)
 {
+    /* add useless comment here to test git function. */
 	if (str != NULL) {
 		char *copy = malloc(strlen(str) + 1);
 		if (copy != NULL)
