@@ -1,3 +1,5 @@
+/* rule test */
+
 static void *opcode_targets[256] = {
     &&_unknown_opcode,
     &&TARGET_POP_TOP,
