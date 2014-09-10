@@ -5,6 +5,8 @@
 #include "Python.h"
 #include "Python-ast.h"
 
+/* a test comment for Verdasys Git test */
+
 static PyTypeObject AST_type;
 static PyTypeObject *mod_type;
 static PyObject* ast2obj_mod(void*);
