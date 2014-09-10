@@ -6,6 +6,7 @@ static void
 PyThread__init_thread(void)
 {
 }
+/*.h test again */
 
 /*
  * Thread support.

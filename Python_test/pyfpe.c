@@ -21,3 +21,4 @@ PyFPE_dummy(void *dummy)
 {
 	return 1.0;
 }
+/* dg test */
